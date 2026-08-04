@@ -1,0 +1,8 @@
+echo "Linux Lab Experiment" > sample.txt
+less sample.txt
+q
+more sample.txt
+vi sample.txt
+Welcome to Kali Linux Lab
+Esc
+:wq
