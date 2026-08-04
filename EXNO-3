@@ -1,0 +1,7 @@
+sudo apt install tree
+mkdir -p Demo/Folder1 Demo/Folder2
+tree Demo
+head sample.txt
+head -3 sample.txt
+tail sample.txt
+tail -2 sample.txt
