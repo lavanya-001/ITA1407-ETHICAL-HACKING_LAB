@@ -1,6 +1,0 @@
-free
-free -h
-echo -e "Orange\nApple\nBanana\nMango" > fruits.txt
-sort fruits.txt
-history
-history 20
